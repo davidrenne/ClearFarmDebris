@@ -1,0 +1,8 @@
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\bin\Debug\net6.0\AllCommandsAvailable.deps.json
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\bin\Debug\net6.0\AllCommandsAvailable.dll
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\AllCommandsAvailable.csproj.AssemblyReference.cache
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\AllCommandsAvailable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\AllCommandsAvailable.AssemblyInfoInputs.cache
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\AllCommandsAvailable.AssemblyInfo.cs
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\AllCommandsAvailable.csproj.CoreCompileInputs.cache
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\AllCommandsAvailable.dll

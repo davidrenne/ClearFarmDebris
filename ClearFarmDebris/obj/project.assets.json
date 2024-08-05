@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MonoGame.Framework.WindowsDX/3.8.1.303": {
+        "type": "package",
+        "build": {
+          "build/MonoGame.Framework.WindowsDX.targets": {}
+        }
+      },
+      "Pathoschild.Stardew.ModBuildConfig/4.1.1": {
+        "type": "package",
+        "build": {
+          "build/Pathoschild.Stardew.ModBuildConfig.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MonoGame.Framework.WindowsDX/3.8.1.303": {
+      "sha512": "RKAXyQRjkyw3hbaP5wmoqr7FH8SkaYfI8TUhX/S4PySHYjVhj4ufr0Rd2HDJTPkSq0KubsBoNUpbD9JM0DlwsQ==",
+      "type": "package",
+      "path": "monogame.framework.windowsdx/3.8.1.303",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/MonoGame.Framework.WindowsDX.targets",
+        "lib/net6.0-windows7.0/MonoGame.Framework.dll",
+        "monogame.framework.windowsdx.3.8.1.303.nupkg.sha512",
+        "monogame.framework.windowsdx.nuspec"
+      ]
+    },
+    "Pathoschild.Stardew.ModBuildConfig/4.1.1": {
+      "sha512": "iLEtUWuj+vFTa0HNJmOm0yMIx5ZnED3WHxM1groLUUcFQWV63IMyF5lSQ9d0dteFu7t2dbl/scLwHBdjk0d7AA==",
+      "type": "package",
+      "path": "pathoschild.stardew.modbuildconfig/4.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/SMAPI.ModBuildConfig.Analyzer.dll",
+        "build/Newtonsoft.Json.dll",
+        "build/Pathoschild.Stardew.ModBuildConfig.targets",
+        "build/SMAPI.ModBuildConfig.dll",
+        "build/SMAPI.Toolkit.CoreInterfaces.dll",
+        "build/SMAPI.Toolkit.dll",
+        "build/find-game-folder.targets",
+        "images/icon.png",
+        "pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512",
+        "pathoschild.stardew.modbuildconfig.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MonoGame.Framework.WindowsDX >= 3.8.1.303",
+      "Pathoschild.Stardew.ModBuildConfig >= 4.1.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Arcade\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Arcade\\Documents\\Development\\AllCommandsAvailable\\AllCommandsAvailable\\ClearFarmDebris.csproj",
+      "projectName": "ClearFarmDebris",
+      "projectPath": "C:\\Users\\Arcade\\Documents\\Development\\AllCommandsAvailable\\AllCommandsAvailable\\ClearFarmDebris.csproj",
+      "packagesPath": "C:\\Users\\Arcade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Arcade\\Documents\\Development\\AllCommandsAvailable\\AllCommandsAvailable\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Arcade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "MonoGame.Framework.WindowsDX": {
+            "target": "Package",
+            "version": "[3.8.1.303, )"
+          },
+          "Pathoschild.Stardew.ModBuildConfig": {
+            "target": "Package",
+            "version": "[4.1.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

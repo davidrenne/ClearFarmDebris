@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yqNlHIVUq3g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arcade\\Documents\\Development\\AllCommandsAvailable\\AllCommandsAvailable\\ClearFarmDebris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arcade\\.nuget\\packages\\monogame.framework.windowsdx\\3.8.1.303\\monogame.framework.windowsdx.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Arcade\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

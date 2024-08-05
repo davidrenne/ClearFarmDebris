@@ -1,0 +1,9 @@
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\bin\Debug\net6.0\config.json
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\bin\Debug\net6.0\ClearFarmDebris.deps.json
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\bin\Debug\net6.0\ClearFarmDebris.dll
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\ClearFarmDebris.csproj.AssemblyReference.cache
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\ClearFarmDebris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\ClearFarmDebris.AssemblyInfoInputs.cache
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\ClearFarmDebris.AssemblyInfo.cs
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\ClearFarmDebris.csproj.CoreCompileInputs.cache
+C:\Users\Arcade\Documents\Development\AllCommandsAvailable\AllCommandsAvailable\obj\Debug\net6.0\ClearFarmDebris.dll
